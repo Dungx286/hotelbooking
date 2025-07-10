@@ -91,7 +91,7 @@ $recent_bookings_result = mysqli_query($conn, $recent_bookings_sql);
                         <div class="stats-info">
                             <h3>Đặt phòng</h3>
                             <p><?php echo $stats['total_bookings']; ?></p>
-                            <small><?php echo $stats['pending_bookings']; ?> đơn chờ xác nhận</small>
+                            <small><?php echo $stats['pending_bookings']; ?> đơn chơ xác nhận</small>
                         </div>
                     </div>
                     <div class="stats-card">
