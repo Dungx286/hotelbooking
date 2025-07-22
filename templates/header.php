@@ -9,7 +9,7 @@ $userName = isset($_SESSION['user_name']) ? $_SESSION['user_name'] : '';
     <div class="container">
         <div class="logo">
             <a href="index.php">
-                <img src="https://img.freepik.com/premium-vector/cute-panda-logo_147788-7.jpg" alt="Panda Hotel Logo">
+                <img src="image/logo.jpg" alt="Panda Hotel Logo">
                 <span>Panda Hotel</span>
             </a>
         </div>

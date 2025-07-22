@@ -6,7 +6,7 @@ $isAdmin = ($userRole == 2);
 
 <aside class="admin-sidebar">
     <div class="sidebar-header">
-        <img src="https://img.freepik.com/premium-vector/cute-panda-logo_147788-7.jpg" alt="Panda Hotel Logo">
+        <img src="image/logo.jpg" alt="Panda Hotel Logo">
         <h2>Panda Hotel</h2>
     </div>
     <nav class="sidebar-nav">

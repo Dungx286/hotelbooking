@@ -2,7 +2,7 @@
     <div class="container">
         <div class="footer-content">
             <div class="footer-logo">
-                <img src="https://img.freepik.com/premium-vector/cute-panda-logo_147788-7.jpg" alt="Panda Hotel Logo">
+                <img src="image/logo.jpg" alt="Panda Hotel Logo">
                 <h3>Panda Hotel</h3>
                 <p>Nơi nghỉ dưỡng tuyệt vời cho mọi du khách</p>
                 <div class="social-icons">

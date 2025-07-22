@@ -66,7 +66,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <!-- Register Form -->
     <div class="auth-container">
         <div class="auth-header">
-            <img src="https://img.freepik.com/premium-vector/cute-panda-logo_147788-7.jpg" alt="Panda Hotel Logo">
+            <img src="image/logo.jpg" alt="Panda Hotel Logo">
             <h2>Đăng ký tài khoản</h2>
         </div>
         
